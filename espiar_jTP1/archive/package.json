@@ -1,0 +1,10 @@
+{
+  "name": "EPITA-MTI-TP0",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Quentin Pré <pre.quentin@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./src/index.js"
+  }
+}
